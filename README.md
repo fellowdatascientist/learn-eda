@@ -1,4 +1,6 @@
 # learn-eda
+
+### Analysis collections
 Collection of exploratory data analysis on various data sets
 
 - Sports
@@ -7,3 +9,7 @@ Collection of exploratory data analysis on various data sets
     - [Link to analysis using Python](https://github.com/skathirmani/skathirmani.github.io/blob/master/ipython_notebooks/Cricket%20Analysis.ipynb)
 - Banking
   -[Bank Campaign data](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+
+
+### Articles, blogs and books
+- [Feature selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
